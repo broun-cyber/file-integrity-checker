@@ -1,0 +1,3 @@
+Hello, this is my integrity test file.
+This file has been modified.
+Testing file modification detection.
