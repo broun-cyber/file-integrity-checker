@@ -55,15 +55,37 @@ Then enter a file path:
     [WARNING] File has been modified!
     Current hash does not match the saved hash.
 
-## 📂 Project Structure
+## 🚀 Projects
 
-    file-integrity-checker/
-    ├── integrity_checker.py
-    ├── test.txt
-    ├── README.md
-    └── .gitignore
+### 🔐 Password Strength Checker
 
-The generated `hashes.json` file is excluded from Git using `.gitignore`.
+A Python-based password strength checker that evaluates passwords using basic security rules and provides improvement suggestions.
+
+**Technologies:** Python | Regular Expressions | Cybersecurity Fundamentals
+
+👉 [View Project](https://github.com/broun-cyber/password-strength-checker)
+
+---
+
+### 🛡️ File Integrity Checker
+
+A Python-based cybersecurity tool that uses SHA-256 hashing to detect changes in files by comparing their current hash with a previously saved baseline.
+
+**Technologies:** Python | SHA-256 | Hashlib | JSON | File Handling
+
+👉 [View Project](https://github.com/broun-cyber/file-integrity-checker)
+
+---
+
+### 🚧 More Projects Coming Soon
+
+Currently building and learning projects related to:
+
+- Python
+- Linux
+- Networking
+- Cybersecurity
+- BCA Programming
 
 ## 🧠 What I Learned
 
